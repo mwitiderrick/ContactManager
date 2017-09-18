@@ -71,12 +71,3 @@ while True:
         sys.exit()
     else:
         print('Please choose the correct input')
-
-
-
-
-
-
-
-
-
