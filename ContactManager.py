@@ -39,7 +39,6 @@ class PhoneBook:
 
         print(self.contacts)
 
-
     def delete_contact(self):
         contact_to_delete = input('Enter name of contact to delete: ')
         for contact in self.contacts:
